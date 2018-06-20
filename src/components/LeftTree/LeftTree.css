@@ -1,0 +1,6 @@
+.left-tree{
+    width: 25%;
+    height: 100%;
+    border-right: 1px solid black;
+    text-align: left;
+}

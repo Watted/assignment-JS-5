@@ -1,0 +1,27 @@
+.right-side{
+    width: 75%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.textArea-label{
+    width: 100%;
+    height: 95%;
+}
+
+.action{
+    height: 5%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.input-text{
+    width: 95%;
+}
+
+.btn-send{
+    width: 5%;
+    background-color: #fff;
+}
